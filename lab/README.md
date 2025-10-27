@@ -6,7 +6,7 @@ In this hands-on workshop, you'll use Microsoft Purview Data Loss Prevention (DL
 
 If you're not attending AI Tour, you can still complete this lab using your own Microsoft 365 E5 environment with Microsoft Purview DLP, Insider Risk Management, and Adaptive Protection enabled.
 
-## Pre-Requisites
+## Prerequisites
 
 To participate in this workshop, you'll need:
 
