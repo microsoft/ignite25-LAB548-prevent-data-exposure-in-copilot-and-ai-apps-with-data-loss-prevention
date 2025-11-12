@@ -6,7 +6,7 @@
 
 ---
 
-## 🔥LAB548: Implement and Manage Data Loss Prevention policies
+## 🔥LAB548: Prevent data exposure in Copilot and AI apps with data loss prevention
 
 *Learn how to use Microsoft Purview DLP and Adaptive Protection to safeguard sensitive data in Copilot and AI environments.*
 
