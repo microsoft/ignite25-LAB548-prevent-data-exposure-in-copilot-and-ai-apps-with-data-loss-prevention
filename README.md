@@ -24,9 +24,9 @@ By the end of this session, you'll be able to:
 
 ### 💻 Technologies Used
 
-1. Microsoft Purview Data Loss Prevention (DLP)
-1. Microsoft Purview Adaptive Protection
-1. Microsoft Purview Insider Risk Management
+1. [Microsoft Purview Data Loss Prevention (DLP)](https://learn.microsoft.com/en-us/purview/dlp-learn-about-dlp)
+1. [Microsoft Purview Adaptive Protection](https://learn.microsoft.com/en-us/purview/dlp-adaptive-protection-learn)
+1. [Microsoft Purview Insider Risk Management](https://learn.microsoft.com/en-us/purview/insider-risk-management-solution-overview)
 
 ### What you'll do
 
